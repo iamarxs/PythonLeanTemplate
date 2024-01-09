@@ -25,5 +25,5 @@ A Lean template for a Python project with several quality-of-life improvements.
 
 ## Free to use
 
-- Free to use. If anyone finds the template useful, I'd be glad to know!
+- If anyone finds the template useful, I'd be glad to know!
 - <https://github.com/iamarxs/PythonLeanTemplate>
